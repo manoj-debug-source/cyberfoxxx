@@ -1,0 +1,21 @@
+{
+    "dataset": "SIDTD",
+    "total_images": 2222,
+    "training_images": 1777,
+    "validation_images": 445,
+    "clean_unseen_test_images": 467,
+    "validation_accuracy": 77.53,
+    "clean_unseen_accuracy": 75.59,
+    "genuine_precision": 77.92,
+    "genuine_recall": 60.0,
+    "genuine_f1": 67.8,
+    "tampered_precision": 74.44,
+    "tampered_recall": 87.27,
+    "tampered_f1": 80.34,
+    "model": "Lightweight CNN",
+    "forensics": [
+        "Error Level Analysis (ELA)",
+        "Metadata inspection"
+    ],
+    "model_path": "C:\\Users\\sneha\\tamper_detection\\models\\improved_tamper_detector.keras"
+}
