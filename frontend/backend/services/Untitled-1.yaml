@@ -1,0 +1,10 @@
+frontend/src/pages/Results.jsx
+frontend/src/pages/Processing.jsx
+frontend/src/pages/OfficerReview.jsx
+frontend/src/pages/RiskAssessment.jsx
+frontend/src/pages/AdminDashboard.jsx
+
+backend/routes/pipeline.py
+backend/routes/risk.py
+backend/routes/tamper.py
+backend/services/tamper_detection.py
