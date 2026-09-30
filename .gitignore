@@ -1,4 +1,14 @@
-# Environment
+# Face authentication secrets
+**/key.pem
+**/cert.pem
+
+# Large face recognition model files
+**/shape_predictor_68_face_landmarks.dat
+**/shape_predictor_68_face_landmarks.dat.bz2
+
+# Local/test images
+**/id_test.jpg
+**/live_test.jpg# Environment
 .env
 .env.*
 !.env.example
