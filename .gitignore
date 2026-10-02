@@ -1,4 +1,13 @@
-# Face authentication secrets
+# Local editor settings
+.vscode/
+
+# OCR local/runtime files
+ocr and mrz models/*.exe
+ocr and mrz models/*.dll
+ocr and mrz models/*.jar
+ocr and mrz models/*.traineddata
+ocr and mrz models/*.pdf
+ocr and mrz models/tessdata/# Face authentication secrets
 **/key.pem
 **/cert.pem
 
